@@ -1,7 +1,7 @@
 # Inicia seleccionando la imagen de base
 FROM ubuntu
 
-LABEL Martin Vega <mjvnor@outlook.com>
+LABEL Francisco Javier Castro Marquez
 
 WORKDIR /root
 
