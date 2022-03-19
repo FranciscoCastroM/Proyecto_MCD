@@ -1,4 +1,3 @@
-# Inicia seleccionando la imagen de base
 FROM ubuntu
 
 LABEL Francisco Javier Castro Marquez
